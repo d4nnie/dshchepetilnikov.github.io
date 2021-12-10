@@ -5,9 +5,7 @@
 
 Текст с постановкой задачи
 
-Рисунок прямо здесь (выгруженный из РАМУС, выгруженный или созданный "на лету" в PLANTUML)
-
-Ссылки на доп.материалы
+![none](https://github.com/d4nnie/dshchepetilnikov.github.io/blob/main/laba1/model.png)
 
 ## Лабораторная 2
 
