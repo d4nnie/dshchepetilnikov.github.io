@@ -3,9 +3,10 @@
 
 ## Лабораторная 1
 
-Текст с постановкой задачи
+Оператор на заказ распечатывает фото на принтере, тратя бумагу и чернила
 
 ![none](https://github.com/d4nnie/dshchepetilnikov.github.io/blob/main/laba1/model.png)
+![blah](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/d4nnie/dshchepetilnikov.github.io/main/laba1/class.wsd)
 
 ## Лабораторная 2
 
