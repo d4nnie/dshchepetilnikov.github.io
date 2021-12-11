@@ -11,4 +11,9 @@
 
 ## Лабораторная 2
 
+![none](https://github.com/d4nnie/dshchepetilnikov.github.io/blob/main/laba2/model0.png)
+![none](https://github.com/d4nnie/dshchepetilnikov.github.io/blob/main/laba2/model1.png)
+![none](https://github.com/d4nnie/dshchepetilnikov.github.io/blob/main/laba2/model2.png)
+![cd](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/d4nnie/dshchepetilnikov.github.io/main/laba2/prec.wsd)
+
 ## Лабораторная 3
