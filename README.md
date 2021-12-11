@@ -17,3 +17,6 @@
 ![cd](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/d4nnie/dshchepetilnikov.github.io/main/laba2/prec.wsd)
 
 ## Лабораторная 3
+
+![cd](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/d4nnie/dshchepetilnikov.github.io/main/laba3/seq.wsd)
+![cd](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/d4nnie/dshchepetilnikov.github.io/main/laba3/er.wsd)
