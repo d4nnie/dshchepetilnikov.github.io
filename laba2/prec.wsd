@@ -1,15 +1,19 @@
 @startuml
+
 skinparam actor {
-	BackgroundColor White
-	ArrowColor Black
-	BorderColor Black
+    BackgroundColor White
+    ArrowColor Black
+    BorderColor Black
 }
+
 skinparam usecase {
-	BackgroundColor White
-	ArrowColor Black
-	BorderColor Black
+    BackgroundColor White
+    ArrowColor Black
+    BorderColor Black
 }
+
 :Оператор: -left-> (Принять заказ)
 :Оператор: -right-> (Обработать заказ)
 :Оператор: -up-> (Распечатать фото)
+
 @enduml

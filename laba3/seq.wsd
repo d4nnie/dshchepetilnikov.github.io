@@ -1,0 +1,15 @@
+@startuml
+
+actor "Клиент" as owner
+boundary "Приложение" as app
+database "База данных" as data
+actor "Оператор" as trainee
+
+owner -> app : Запрос клиента
+app -> data : Детали заказа
+trainee -> data : Подтверждение
+data -> trainee : Пожелания
+app -> owner : Заказ принят
+data -> app : Статус заказа
+
+@enduml

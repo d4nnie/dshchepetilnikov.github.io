@@ -1,13 +1,16 @@
 @startuml
+
 skinparam class {
-	BackgroundColor White
-	ArrowColor Black
-	BorderColor Black
+    BackgroundColor White
+    ArrowColor Black
+    BorderColor Black
 }
+
 class "Оператор" as P {
     Принтер
     Фото Распечатать (Бумага, Чернила, Заказ)
 }
-hide circle
-@enduml
 
+hide circle
+
+@enduml
