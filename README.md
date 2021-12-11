@@ -6,8 +6,8 @@
 Оператор на заказ распечатывает фото на принтере, тратя бумагу и чернила
 
 ![none](https://github.com/d4nnie/dshchepetilnikov.github.io/blob/main/laba1/model.png)
-![blah](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/d4nnie/dshchepetilnikov.github.io/main/laba1/class.wsd)
-![uc](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/d4nnie/dshchepetilnikov.github.io/main/laba1/usecase.wsd)
+![cd](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/d4nnie/dshchepetilnikov.github.io/main/laba1/class.wsd)
+![uc](https://github.com/d4nnie/dshchepetilnikov.github.io/blob/main/laba1/usecase.png)
 
 ## Лабораторная 2
 
