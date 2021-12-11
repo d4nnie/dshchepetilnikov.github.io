@@ -7,6 +7,7 @@
 
 ![none](https://github.com/d4nnie/dshchepetilnikov.github.io/blob/main/laba1/model.png)
 ![blah](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/d4nnie/dshchepetilnikov.github.io/main/laba1/class.wsd)
+![uc](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/d4nnie/dshchepetilnikov.github.io/main/laba1/usecase.wsd)
 
 ## Лабораторная 2
 
