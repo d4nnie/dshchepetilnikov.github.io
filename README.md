@@ -21,4 +21,5 @@
 ![cd](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/d4nnie/dshchepetilnikov.github.io/main/laba3/seq.wsd)
 ![cd](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/d4nnie/dshchepetilnikov.github.io/main/laba3/er.wsd)
 
+# [Деловая игра](https://github.com/d4nnie/dshchepetilnikov.github.io/wiki/%D0%94%D0%B5%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F-%D0%B8%D0%B3%D1%80%D0%B0)
 # Рефераты: [разработанный](https://github.com/stankin/design-part-1/wiki/exam07-2) и проверенный
