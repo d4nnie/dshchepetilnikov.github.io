@@ -20,3 +20,5 @@
 
 ![cd](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/d4nnie/dshchepetilnikov.github.io/main/laba3/seq.wsd)
 ![cd](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/d4nnie/dshchepetilnikov.github.io/main/laba3/er.wsd)
+
+# Рефераты: [разработанный](https://github.com/stankin/design-part-1/wiki/exam07-2) и проверенный
